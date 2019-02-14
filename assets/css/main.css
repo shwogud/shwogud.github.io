@@ -27,8 +27,8 @@ section, summary, time, mark, audio, video {
 
 
 .resume-button {
-	background-color: lightblue;
-	margin-left: 41%;
+	background-color: rgb(87, 52, 92);
+	margin-left: 41.5%;
 	margin-top: 25px;
 	cursor: pointer;
 	padding-top: 25px;
@@ -36,23 +36,30 @@ section, summary, time, mark, audio, video {
 	padding-left: 100px;
 	padding-right: 100px;
 	font-size: 25px;
+	color: white;
 }
 
 	.cs-languages {
 		display: flex;
-		padding-left: 20%;
+		padding-left: 16.5%;
 	}
 
 	.icons {
 		font-size: 80px;
 	}
 
+	.icon-skillz {
+		font-size: 30px;
+	}
+
 	.each-icon {
 		padding-left: 100px;
 		padding-right: 100px;
-		padding-top: 50px;
+		padding-top: 20px;
 		padding-bottom: 50px;
+		text-align: center;
 	}
+	
 
 	.redux-logo {
 		width: 90px;
@@ -2481,7 +2488,7 @@ input, select, textarea {
 				padding-left: 0;
 			}
 
-			ul.icons li a, ul.icons li span {
+			/* ul.icons li a, ul.icons li span {
 				-moz-transition: background-color 0.2s ease-in-out;
 				-webkit-transition: background-color 0.2s ease-in-out;
 				-ms-transition: background-color 0.2s ease-in-out;
@@ -2493,7 +2500,7 @@ input, select, textarea {
 				line-height: 2em;
 				text-align: center;
 				width: 2em;
-			}
+			} */
 
 				ul.icons li a:hover, ul.icons li span:hover {
 					background: rgba(224, 224, 224, 0.15);
@@ -3329,3 +3336,9 @@ input, select, textarea {
 				}
 
 	}
+
+	i {
+		font-size: 70px;
+	}
+
+
