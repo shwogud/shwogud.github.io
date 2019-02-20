@@ -28,7 +28,7 @@ section, summary, time, mark, audio, video {
 
 .resume-button {
 	background-color: rgb(87, 52, 92);
-	margin-left: 41.5%;
+	/* margin-left: 41.5%; */
 	margin-top: 25px;
 	cursor: pointer;
 	padding-top: 25px;
@@ -41,7 +41,8 @@ section, summary, time, mark, audio, video {
 
 	.cs-languages {
 		display: flex;
-		padding-left: 16.5%;
+		justify-content: center;
+		/* padding-left: 16.5%; */
 	}
 
 	.icons {
