@@ -76,6 +76,11 @@ section, summary, time, mark, audio, video {
 		padding-bottom: 50px;
 	}
 
+	/* .logo.icon.fa-paper-plane-o {
+		width: 250px;
+		height: 250px;
+	} */
+
 
 
 article, aside, details, figcaption, figure,
@@ -2806,11 +2811,11 @@ input, select, textarea {
 			cursor: default;
 			display: inline-block;
 			font-size: 2.25em;
-			height: 2.35em;
+			height: 250px;
 			line-height: 2.35em;
 			margin: 0 0 0.75em 0;
 			text-align: center;
-			width: 2.35em;
+			width: 250px;
 		}
 
 			#header .logo.fa-paper-plane-o:before {
